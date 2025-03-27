@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kandiv12
 - 👀 I’m interested in Web application development
-- 🌱 I’m currently learning Java spring
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development
 - 📫 Reach me at kandivamshi7@gmail.com
 
 <!---
